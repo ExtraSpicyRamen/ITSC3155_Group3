@@ -1,0 +1,22 @@
+Scenarios:
+Sam is a student at UNCC, unlike most of his peers he isn't the best with technology, but with his chosen major he doesn’t really need to be. However, at the behest of his parents, he agreed to find an internship for the summer to get some work experience on his resume. 
+While looking through	the UNCC portal resources he tried the Hire-a-niner however found it difficult to navigate as he only wanted an internship. He found the setup of the site confusing and due to his lack of experience in technology gave up on the site. 
+
+When complaining to his roommate about the complexity of Hire-A-Niner, they directed him towards the InternFourtyNiner, a site that focused specifically on internships. Without the hassle of having to upload more information than his major and when the internships were, InternFourtyNiner was able to provide a list of internships related to Sam’s major happening around summer time. 
+
+User Story:
+ 	As a student, I want to find an internship easily without having to put in additional and redundant information so that I can save time on simply finding an internship. 
+
+Senario:
+Becky, a senior at UNCC majoring in CS was getting close to graduating. While looking at her resume and reviewing with her academic advisor she noticed that while she had ample work time and experience, none were in her own field. Her advisor noted possible resources UNCC provided such as Hire-a-Niner and InternFourtyNiner. 
+
+After her talk with her advisor, she concluded that it would be best to get an internship as it would provide her resume with work experience in her field but also held the potential for her to get close with the company and even move up to a full time employee after graduation. While browsing through Hire-a-Niner, she found many job opportunities, some even in her own field but no internships as other jobs would bleed into her searches. 
+After being fed up with Hire-a-Niner she decided to try the other site her advisor had recommended and went to the InternFourtyNiner webpage. The site was made for internships so all Becky had to do was input her major and when she wanted the internship to take place. Since the site was dedicated to internships, no other pesky random jobs bled into her search and she was able to find one in her major and a semester before her graduation allowing her ample time to work and potentially grow close with the company. 
+
+User Story:
+	As a student, I want to find an internship without having to weed out jobs that aren’t internships and are related to my major so that I can easily find the internships I want. 
+
+Feature List:
+Resume builder
+General tips for interviews/internships
+Find internships using keywords(time and major)
