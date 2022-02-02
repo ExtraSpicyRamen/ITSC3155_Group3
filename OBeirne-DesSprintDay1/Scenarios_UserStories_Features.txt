@@ -1,0 +1,21 @@
+Scenario
+
+Johnny is a nineteen year old freshman looking to find an internship to get a head start on his career, preferably in the CCI concentrations. Johnny has not finished any majorly intensive classes, mostly general education, but he has a background working on small coding projects for fun. Johnny is having trouble finding open internships.
+
+Johnny decides to use the Career Center but is unable to find any open listings that fit him and LinkedIn isn't giving him responses. In addition to this, his resume is rather lackluster and he hasn't done a formal interview before. He could either continue his education, saving an internship for after he has completed more technical courses, or he could apply and likely fail due to the previous factors. Johnny is discouraged as he really wanted to get a good headstart to save time on his later career matters and reluctantly decides  to not pursue an internship this semester.
+
+
+User Story
+
+Johnny is a nineteen year old freshman looking to find an internship to get a head start on his career, preferably in the CCI concentrations. Johnny has not finished any majorly intensive classes, mostly general education, but he has a background working on small coding projects for fun. Johnny hears about Intern 49er from the Career Center.
+
+Johnny uses the Inter 49er website to browse various internships that fall in the CCI field. he realises that he might not have updated his resume very recently and decides to work a short draft. While doing this, he accesses common resume tips displayed on the website in order to strengthen his rewrite. After this, he chooses an entry level internship at Cisco and applies with his newly written resume. He is selected for an interview and before logging into the session he refreshes himself with the common internship tips displayed on the website. He then logs on and is offered the position for the upcoming summer, which he happily accepts. Cisco is also happy about the internship as Johnny was a good fit for the position which they may have missed if he had not updated his resume or practiced for the interview.
+
+
+Feature List - 
+
+Website is the main form.
+- Resume Builder
+- Internship Browser
+- Tip Center for interviews and other
+- Profile search for companies
