@@ -1,0 +1,18 @@
+Scenarios: 
+
+Becky is currently a senior at The University of North Carolina at Charlotte and is interested in growing her resume so when she graduates she will be able to get a job and already have experience within her field of study. 
+A couple of Becky’s friends have found jobs through resources like Hire-a-Niner and InternFourtyNiner so she decides to take a look at those websites. 
+Becky’s mother wants her to get an internship and when looking at both of the websites she realises that Hire-a-Niner doesn’t have as many internship opportunities as InternFourtyNiner. 
+On InternFourtyNiner all Becky has to do is input what her major is and then a whole bunch of internships are given to her. 
+Each internship has a description about the company and the position so it really helps Becky narrow down her search and find an internship that works best for her. 
+
+User Stories: 
+
+As a student, I want to be able to find an internship that is related to my major and not have to search through a bunch of internships that I have no experience with. 
+
+Feature List:
+
+Resume builder
+Interview tips
+Internship comparison 
+Description of company/internship
