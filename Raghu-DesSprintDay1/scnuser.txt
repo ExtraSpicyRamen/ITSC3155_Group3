@@ -12,3 +12,10 @@ he filters the selection of internships perhaps looking specifically for freshma
 or ones that require no prior experience. After finding ones that fit both his requirements and finding 
 one where he fills the role, he applies and eventually gets an offer.This puts him ahead of the competition 
 and the ones not using the site are left behind. 
+
+Feature List:
+
+- Filtering system for internships
+- Featured internships list
+- Resume builder
+- Skills weakness identifier
