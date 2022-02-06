@@ -1,0 +1,14 @@
+User Stores:
+ Consumers need to quickly and efficiently get to the product which is to locate and find content and information about 
+remote or in person internships/co-ops that fit the users experience skills as well as what they are interested in. 
+The user would want all of this agglomerated into one dense web app, software should be simple and we should be 
+credible with credible companies to provide to our consumers.  
+
+
+Scenarios: In this scenario the possible consumer is looking for internships or any experience he can find. 
+He is currently a freshman with very little to no experience. He wants to get ahead of the curve and find an
+opportunity to get some experience. He finds the website on a simple google search looking for internships, 
+he filters the selection of internships perhaps looking specifically for freshman/sophomore students, 
+or ones that require no prior experience. After finding ones that fit both his requirements and finding 
+one where he fills the role, he applies and eventually gets an offer.This puts him ahead of the competition 
+and the ones not using the site are left behind. 
